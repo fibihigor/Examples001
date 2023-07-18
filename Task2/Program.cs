@@ -9,11 +9,11 @@
 Console.WriteLine("Введите три числа, и узнайте, ");
 Console.WriteLine("какое из них имеет максимальное значение.");
 Console.Write("Введите первое число и нажмите ENTER: ");
-int num1 = Convert.ToInt32((Console.ReadLine());
+int num1 = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите второе число и нажмите ENTER: ");
-int num2 = Convert.ToInt32((Console.ReadLine());
+int num2 = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите третье число и нажмите ENTER: ");
-int num3 = Convert.ToInt32((Console.ReadLine());
+int num3 = Convert.ToInt32(Console.ReadLine());
 int maxNum = 0;
 if (num1 > maxNum) maxNum = num1;
 if (num2 > maxNum) maxNum = num2;
